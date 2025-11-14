@@ -1,0 +1,10 @@
+{
+  "name": "segunda-g5-render",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@sparticuz/chromium": "126.0.0",
+    "puppeteer-core": "23.5.0"
+  }
+}
