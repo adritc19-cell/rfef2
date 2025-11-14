@@ -1,0 +1,13 @@
+{
+  "name": "rfef-segunda-g5-render",
+  "version": "1.0.2",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "126.0.0",
+    "puppeteer-core": "23.5.0"
+  }
+}
